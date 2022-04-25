@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Kalendar\Kalendar\bin\Debug\Kalendar.exe.config
+C:\Users\user\source\repos\Kalendar\Kalendar\bin\Debug\Kalendar.exe
+C:\Users\user\source\repos\Kalendar\Kalendar\bin\Debug\Kalendar.pdb
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\Kalendar.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\Kalendar_MarkupCompile.cache
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\Kalendar_MarkupCompile.lref
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\Kalendar.g.resources
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\Kalendar.Properties.Resources.resources
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\Kalendar.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\Kalendar.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\Kalendar.exe
+C:\Users\user\source\repos\Kalendar\Kalendar\obj\Debug\Kalendar.pdb
